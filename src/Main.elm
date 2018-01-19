@@ -1,4 +1,4 @@
-module Main exposing (..)
+module Main exposing (main)
 
 import Html exposing (..)
 
@@ -35,3 +35,16 @@ update msg model =
 
 view model =
     div [] [ text "Hi" ]
+
+
+subscriptions model =
+    Sub.none
+
+
+main =
+    Html.program
+        { init = init
+        , update = update
+        , subscriptions = subscriptions
+        , view = view
+        }
