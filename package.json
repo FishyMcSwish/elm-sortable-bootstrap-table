@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "elm package install --yes && elm-live Main.elm --output=static/js/app.js --pushstate --open"
   },
   "repository": {
     "type": "git",
