@@ -1,1 +1,0 @@
-# elm-sortable-bootstrap-table
