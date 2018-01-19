@@ -1,0 +1,26 @@
+{
+  "name": "elm-sortable-bootstrap-table",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FishyMcSwish/elm-sortable-bootstrap-table.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FishyMcSwish/elm-sortable-bootstrap-table/issues"
+  },
+  "homepage": "https://github.com/FishyMcSwish/elm-sortable-bootstrap-table#readme"
+}
